@@ -1,6 +1,3 @@
-ABSTRACT:
-
-
 DATASET:
 13 datasets with 17.5K, or 35K, or 3541 samples, 354 or 220 features, and 70 or 10 classes were used to compare the performance of different pairs of Dimensionality Reduction and Classification algorithms.
 The folder 'Datasets' contains all these datasets.
